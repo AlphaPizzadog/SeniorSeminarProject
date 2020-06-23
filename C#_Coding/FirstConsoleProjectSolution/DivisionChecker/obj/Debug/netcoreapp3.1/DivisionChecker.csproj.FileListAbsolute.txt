@@ -1,0 +1,13 @@
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\DivisionChecker\bin\Debug\netcoreapp3.1\DivisionChecker.exe
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\DivisionChecker\bin\Debug\netcoreapp3.1\DivisionChecker.deps.json
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\DivisionChecker\bin\Debug\netcoreapp3.1\DivisionChecker.runtimeconfig.json
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\DivisionChecker\bin\Debug\netcoreapp3.1\DivisionChecker.runtimeconfig.dev.json
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\DivisionChecker\bin\Debug\netcoreapp3.1\DivisionChecker.dll
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\DivisionChecker\bin\Debug\netcoreapp3.1\DivisionChecker.pdb
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\DivisionChecker\obj\Debug\netcoreapp3.1\DivisionChecker.csprojAssemblyReference.cache
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\DivisionChecker\obj\Debug\netcoreapp3.1\DivisionChecker.AssemblyInfoInputs.cache
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\DivisionChecker\obj\Debug\netcoreapp3.1\DivisionChecker.AssemblyInfo.cs
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\DivisionChecker\obj\Debug\netcoreapp3.1\DivisionChecker.csproj.CoreCompileInputs.cache
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\DivisionChecker\obj\Debug\netcoreapp3.1\DivisionChecker.dll
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\DivisionChecker\obj\Debug\netcoreapp3.1\DivisionChecker.pdb
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\DivisionChecker\obj\Debug\netcoreapp3.1\DivisionChecker.genruntimeconfig.cache

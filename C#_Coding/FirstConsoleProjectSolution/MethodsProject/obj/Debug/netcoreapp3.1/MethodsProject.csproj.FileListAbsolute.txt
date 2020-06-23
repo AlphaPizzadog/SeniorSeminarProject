@@ -1,0 +1,12 @@
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\MethodsProject\bin\Debug\netcoreapp3.1\MethodsProject.exe
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\MethodsProject\bin\Debug\netcoreapp3.1\MethodsProject.deps.json
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\MethodsProject\bin\Debug\netcoreapp3.1\MethodsProject.runtimeconfig.json
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\MethodsProject\bin\Debug\netcoreapp3.1\MethodsProject.runtimeconfig.dev.json
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\MethodsProject\bin\Debug\netcoreapp3.1\MethodsProject.dll
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\MethodsProject\bin\Debug\netcoreapp3.1\MethodsProject.pdb
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\MethodsProject\obj\Debug\netcoreapp3.1\MethodsProject.AssemblyInfoInputs.cache
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\MethodsProject\obj\Debug\netcoreapp3.1\MethodsProject.AssemblyInfo.cs
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\MethodsProject\obj\Debug\netcoreapp3.1\MethodsProject.csproj.CoreCompileInputs.cache
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\MethodsProject\obj\Debug\netcoreapp3.1\MethodsProject.dll
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\MethodsProject\obj\Debug\netcoreapp3.1\MethodsProject.pdb
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\MethodsProject\obj\Debug\netcoreapp3.1\MethodsProject.genruntimeconfig.cache

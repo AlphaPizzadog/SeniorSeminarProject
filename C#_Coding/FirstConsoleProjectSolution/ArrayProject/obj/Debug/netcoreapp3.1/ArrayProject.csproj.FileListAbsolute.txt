@@ -1,0 +1,12 @@
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\ArrayProject\bin\Debug\netcoreapp3.1\ArrayProject.exe
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\ArrayProject\bin\Debug\netcoreapp3.1\ArrayProject.deps.json
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\ArrayProject\bin\Debug\netcoreapp3.1\ArrayProject.runtimeconfig.json
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\ArrayProject\bin\Debug\netcoreapp3.1\ArrayProject.runtimeconfig.dev.json
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\ArrayProject\bin\Debug\netcoreapp3.1\ArrayProject.dll
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\ArrayProject\bin\Debug\netcoreapp3.1\ArrayProject.pdb
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\ArrayProject\obj\Debug\netcoreapp3.1\ArrayProject.AssemblyInfoInputs.cache
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\ArrayProject\obj\Debug\netcoreapp3.1\ArrayProject.AssemblyInfo.cs
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\ArrayProject\obj\Debug\netcoreapp3.1\ArrayProject.csproj.CoreCompileInputs.cache
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\ArrayProject\obj\Debug\netcoreapp3.1\ArrayProject.dll
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\ArrayProject\obj\Debug\netcoreapp3.1\ArrayProject.pdb
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\ArrayProject\obj\Debug\netcoreapp3.1\ArrayProject.genruntimeconfig.cache

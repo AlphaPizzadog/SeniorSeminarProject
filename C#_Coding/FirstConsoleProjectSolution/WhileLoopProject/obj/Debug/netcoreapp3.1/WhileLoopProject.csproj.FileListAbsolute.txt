@@ -1,0 +1,12 @@
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\WhileLoopProject\bin\Debug\netcoreapp3.1\WhileLoopProject.exe
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\WhileLoopProject\bin\Debug\netcoreapp3.1\WhileLoopProject.deps.json
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\WhileLoopProject\bin\Debug\netcoreapp3.1\WhileLoopProject.runtimeconfig.json
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\WhileLoopProject\bin\Debug\netcoreapp3.1\WhileLoopProject.runtimeconfig.dev.json
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\WhileLoopProject\bin\Debug\netcoreapp3.1\WhileLoopProject.dll
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\WhileLoopProject\bin\Debug\netcoreapp3.1\WhileLoopProject.pdb
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\WhileLoopProject\obj\Debug\netcoreapp3.1\WhileLoopProject.AssemblyInfoInputs.cache
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\WhileLoopProject\obj\Debug\netcoreapp3.1\WhileLoopProject.AssemblyInfo.cs
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\WhileLoopProject\obj\Debug\netcoreapp3.1\WhileLoopProject.csproj.CoreCompileInputs.cache
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\WhileLoopProject\obj\Debug\netcoreapp3.1\WhileLoopProject.dll
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\WhileLoopProject\obj\Debug\netcoreapp3.1\WhileLoopProject.pdb
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\WhileLoopProject\obj\Debug\netcoreapp3.1\WhileLoopProject.genruntimeconfig.cache

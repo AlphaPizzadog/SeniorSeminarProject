@@ -1,0 +1,13 @@
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\AgeChecker\bin\Debug\netcoreapp3.1\AgeChecker.exe
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\AgeChecker\bin\Debug\netcoreapp3.1\AgeChecker.deps.json
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\AgeChecker\bin\Debug\netcoreapp3.1\AgeChecker.runtimeconfig.json
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\AgeChecker\bin\Debug\netcoreapp3.1\AgeChecker.runtimeconfig.dev.json
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\AgeChecker\bin\Debug\netcoreapp3.1\AgeChecker.dll
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\AgeChecker\bin\Debug\netcoreapp3.1\AgeChecker.pdb
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\AgeChecker\obj\Debug\netcoreapp3.1\AgeChecker.csprojAssemblyReference.cache
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\AgeChecker\obj\Debug\netcoreapp3.1\AgeChecker.AssemblyInfoInputs.cache
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\AgeChecker\obj\Debug\netcoreapp3.1\AgeChecker.AssemblyInfo.cs
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\AgeChecker\obj\Debug\netcoreapp3.1\AgeChecker.csproj.CoreCompileInputs.cache
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\AgeChecker\obj\Debug\netcoreapp3.1\AgeChecker.dll
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\AgeChecker\obj\Debug\netcoreapp3.1\AgeChecker.pdb
+C:\Users\biods\Documents\Senior_Seminar_Project\C#_Coding\FirstConsoleProjectSolution\AgeChecker\obj\Debug\netcoreapp3.1\AgeChecker.genruntimeconfig.cache
